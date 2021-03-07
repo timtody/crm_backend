@@ -1,0 +1,5 @@
+[client]
+database = movedb
+user = julius
+password = Dadadabebi1
+default-character-set = utf8
